@@ -1,2 +1,2 @@
 # Simple-Calculator
-Making a Simple Calculator using C# and Visual Studio
+A Simple Calculator made using C# and Visual Studio.
